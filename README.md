@@ -7,6 +7,10 @@ npm install
 ```
 ## Have an Api 
 ```
+  test API append [ http://api.da4.cc/uploads/data.json ] √
+	⚠ 这个api不定时会无效，如果无效请使用json-server
+	⚠ This api will be invalid from time to time, if invalid, please use json-server
+
 	If your computer does not have the json-server service installed
 	You need to download and install json-server globally
 	After the installation is complete, open ./src/data in the project directory
@@ -40,3 +44,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+## Module Quick look
+[快速查看](http://vue.da4.cc/#/) 
