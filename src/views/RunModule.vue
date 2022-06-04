@@ -45,7 +45,7 @@ export default {
     async getdata () {
       //                                    may change here ↓
       // const { data: res } = await axios.get('http://localhost:3000/data')
-      const { data: res } = await axios.get('http://api.da4.cc/uploads/data.json')
+      const { data: res } = await axios.get('https://api.da4.cc/uploads/data.json')
       const newres = res.data // 因为这个接口返回的并不是一个数组
       const articleList = [...new Set(newres.map((word) => word.month))]
       const newalist = []
