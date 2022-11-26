@@ -45,4 +45,4 @@ npm run lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 ## Module Quick look
-[快速查看](http://vue.da4.cc/#/) 
+[快速查看](http://vue.6xr.cc/#/) 
