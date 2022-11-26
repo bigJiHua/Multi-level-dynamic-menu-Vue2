@@ -7,7 +7,7 @@ npm install
 ```
 ## Have an Api 
 ```
-  test API append [ https://api.da4.cc/uploads/data.json ] √
+  test API append [ https://api.6xr.cc/api/uploads/data.json ] √
 	⚠ 这个api不定时会无效，如果无效请使用json-server
 	⚠ This api will be invalid from time to time, if invalid, please use json-server
 
