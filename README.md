@@ -23,7 +23,7 @@ npm install
 	你需要去下载并全局安装json-server
 	安装完成后打开项目目录的 ./src/data
 	在控制台运行 json-server data.json
-	运行完成后你将得到一个类似于 的地址，
+	运行完成后你将得到一个类似于 http://localhost:3000/data 的地址，
 	复制它打开 src/views/RunModule.vue 的 47行 ，把他替换
 	然后重新打开一个控制台窗口 运行 npm run serve 将项目运行
 ```
